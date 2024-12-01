@@ -7,7 +7,7 @@ http://192.168.5.71:5893/rtp/239.77.0.1:5146
 http://192.168.5.71:5893/rtp/239.77.0.84:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="广东节目",广东体育
 http://192.168.5.71:5893/rtp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东公共" tvg-logo="https://live.fanmingming.com/tv/广东公共.png" group-title="广东节目",广东公共
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.com/tv/广东民生.png" group-title="广东节目",广东民生
 http://192.168.5.71:5893/rtp/239.77.0.225:5146
 #EXTINF:-1 tvg-name="广东国际" tvg-logo="https://live.fanmingming.com/tv/广东国际.png" group-title="广东节目",广东国际
 http://192.168.5.71:5893/rtp/239.77.0.7:5146
